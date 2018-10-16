@@ -12,7 +12,7 @@ import { AlertComponent } from './alert/alert.component';
 import { WarningComponent } from './warning/warning.component';
 import { RecipieListComponent } from './recipies/recipie-list/recipie-list.component';
 import { RecipieDetailComponent } from './recipies/recipie-detail/recipie-detail.component';
-import { RecipieItemComponent } from './recipies/recipie-item/recipie-item.component';
+import { RecipieItemComponent } from './recipies/recipie-list/recipie-item/recipie-item.component';
 import { ShoppingListComponent } from './shopping-list/shopping-list.component';
 import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-edit.component';
 
